@@ -1,0 +1,21 @@
+# ninja log v5
+1	1415	6988797819797736	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+1420	1604	6988797821610154	Simple_Calculator.exe	e5b83ad4185d5b7e
+11	1473	6988798908254644	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+1474	1647	6988798909970545	Simple_Calculator.exe	e5b83ad4185d5b7e
+6	1225	6988801015530395	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+1226	1370	6988801016882568	Simple_Calculator.exe	e5b83ad4185d5b7e
+9	1283	6988801476724446	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+1283	1414	6988801477978920	Simple_Calculator.exe	e5b83ad4185d5b7e
+9	1774	6988803529065463	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+1774	2042	6988803531024778	Simple_Calculator.exe	e5b83ad4185d5b7e
+9	2334	6988804287227839	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+2335	2485	6988804288505714	Simple_Calculator.exe	e5b83ad4185d5b7e
+8	1343	6988805501349087	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+1343	1487	6988805502708655	Simple_Calculator.exe	e5b83ad4185d5b7e
+6	1196	6988806898077536	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+1197	1400	6988806900004149	Simple_Calculator.exe	e5b83ad4185d5b7e
+5	1134	6988808252543834	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+1134	1282	6988808253969457	Simple_Calculator.exe	e5b83ad4185d5b7e
+6	1154	6988808690610491	CMakeFiles/Simple_Calculator.dir/main.cpp.obj	760a33a81bdaf165
+1155	1305	6988808692062928	Simple_Calculator.exe	e5b83ad4185d5b7e
