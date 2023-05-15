@@ -23,7 +23,7 @@ void itan();
 
 int main(){
     int choice;
-    cout<<"\t\t Welcome to the Scientific Calculator, developed by Peace Oloruntoba C.E.O. Edge||Tech!! \n"<<endl;
+    cout<<"\t\t Welcome to the Scientific Calculator, developed by Peace Oloruntoba\n"<<endl;
     cout<<"*******Press 0 to quit the program*******\n"<<endl;
     cout<<"Enter 1 for Addition\n";
     cout<<"Enter 2 for Subtraction\n";
